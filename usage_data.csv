@@ -1,0 +1,17 @@
+Instance,Resource Type,Average Usage (%)
+192.168.23.6:9100,CPU,1.2680555557987248
+192.168.23.6:9100,RAM,4.33766669049146
+192.168.23.6:9835,GPU,1.0
+192.168.23.6:9835,GPU,0.0
+192.168.23.6:9835,GPU,0.0
+192.168.23.6:9835,GPU,0.0
+Operating System Name,Linux
+Operating System Version,5.4.0-153-generic
+Computer Network Name,rann-ai-server
+Processor Information,x86_64
+Architecture Information,x86_64
+Platform Information,Linux-5.4.0-153-generic-x86_64-with-glibc2.17
+Complete System Information,"uname_result(system='Linux', node='rann-ai-server', release='5.4.0-153-generic', version='#170-Ubuntu SMP Fri Jun 16 13:43:31 UTC 2023', machine='x86_64', processor='x86_64')"
+CPU Model,Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz
+GPU Model,"NVIDIA Corporation GP102 [GeForce GTX 1080 Ti] (rev a1)
+03"

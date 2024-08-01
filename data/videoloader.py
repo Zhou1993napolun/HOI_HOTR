@@ -118,9 +118,9 @@ class LoadWebcam:  # for inference
 
     def __next__(self):
         self.count += 1
-        if cv2.waitKey(1) == 27:  # esc to quit
-            cv2.destroyAllWindows()
-            raise StopIteration
+        # if cv2.waitKey(1) == 27:  # esc to quit
+        #     cv2.destroyAllWindows()
+        #     raise StopIteration
 
         # Read image
         ret_val, img0 = self.cap.read()
